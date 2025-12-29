@@ -463,5 +463,94 @@ https://www.slideshare.net/slideshow/to-night-made-iframes-and-1-and-number-11/2
     "country": "Canada"
   } <iframe src="https://www.slideshare.net/slideshow/embed_code/key/I3LkBuJMGdC7OY" width="510" height="420"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/to-night-made-iframes-and-1-and-number-11/284547486" title="to-night-made-iframes-and-1-and-number-11" target="_blank">to-night-made-iframes-and-1-and-number-11</a></strong>from <strong><a href="https://www.slideshare.net/matthewshannonamos01" target="_blank">matthew shannon amos </a></strong></div>
 
+  ============================================================================================================================================================================================================
+
+  
+Matthew Shannon Amos
+2 weeks ago
+Hear is where I'm at it the the Bluetooth Code 
+
+
+
+}}
+3}Screenshot_               {10-SPADE-20}           10-0\[...]0.%99,{0..0},99%.0[...]/20-0     {.com.}      [...]'='+""[...]                                {{          
+4}           1+_.{                                         ,H;         ;H,        ;H,        {10-SPADE-20}
+5}}           2+_.{
+https://r.bing.com/rp/J5-R5Bbh0y74Ok0O98PRRBxulSA.br.js}[...];H,                                                                                                            {{        }}
+7}}____________________
+8}Screenshot_              {10-SPADE-20}            10-0\[...]0.%99,{0..0},99%.0[...]/20-0      {.com.}       [...]'='+""[...]            45                         {     {
+9}         1+_.{                      {  {                ,H;         ;H,        ;H,         {10-SPADE-20}                 {{
+
+
+Google Keep Voice Options too
+
+========================================================================================================}} https://newbrun506.blogspot.com/2023/04/httpwwwyoutubecomname-less.html Var scriptUrl = 'https:\/\/www.youtube.com\/s\/player\/a897053d\/www-widgetapi.vflset\/www-widgetapi.js';try{var ttPolicy=window.trustedTypes.createPolicy("youtube-widget-api",{createScript window["YT"])YT={loading:0,loaded:0};var YTConfig;if(! window["YTConfig"])YTConfig={"host":"https://www.youtube.com"} ; Si(! YT.loading){YT.loading=1;(function(){var l=[https://youtu.be/jM8dCGIm6yc?list=RDj...];YT.ready=function(f){if(YT.loaded)f();else l.push(f)};window.onYTReady=function(){YT.loaded=1;for(var i=0;i Var scriptUrl = 'https:\/\/www.youtube.com\/s\/player\/a897053d\/www-widgetapi.vflset\/www-widgetapi.js';try{var ttPolicy=window.trustedTypes.createPolicy("youtube-widget-api",{createScript window["YT"])YT={loading:0,loaded:0};var YTConfig;if(! window["YTConfig"])YTConfig={"host":"https://www.youtube.com"} ; Si(! YT.loading){YT.loading=1;(function(){var l=[https://youtu.be/jM8dCGIm6yc?list=RDj...];YT.ready=function(f){if(YT.loaded)f();else l.push(f)};window.onYTReady=function(){YT.loaded=1;for(var i=0;i https://newbrun506.blogspot.com/2023/04/httpwwwyoutubecomname-less.html Var scriptUrl = 'https:\/\/www.youtube.com\/s\/player\/a897053d\/www-widgetapi.vflset\/www-widgetapi.js';try{var ttPolicy=window.trustedTypes.createPolicy("youtube-widget-api",{createScript window["YT"])YT={loading:0,loaded:0};var YTConfig;if(! window["YTConfig"])YTConfig={"host":"https://www.youtube.com"} ; Si(! YT.loading){YT.loading=1;(function(){var l=[https://youtu.be/jM8dCGIm6yc?list=RDj...];YT.ready=function(f){if(YT.loaded)f();else l.push(f)};window.onYTReady=function(){YT.loaded=1;for(var i=0;i Var scriptUrl = 'https:\/\/www.youtube.com\/s\/player\/a897053d\/www-widgetapi.vflset\/www-widgetapi.js';try{var ttPolicy=window.trustedTypes.createPolicy("youtube-widget-api",{createScript window["YT"])YT={loading:0,loaded:0};var YTConfig;if(! window["YTConfig"])YTConfig={"host":"https://www.youtube.com"} ; Si(! YT.loading){YT.loading=1;(function(){var l=[https://youtu.be/jM8dCGIm6yc?list=RDj...];YT.ready=function(f){if(YT.loaded)f();else l.push(f)};window.onYTReady=function(){YT.loaded=1;for(var i=0;i
+
+{•}https://camrecs.org/threads/alicetodd.44031/}•
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/"
+>
+
+  <channel rdf:about="http://example.org/rss.rdf">
+    <title>Example Feed</title>
+    <link>http://www.example.org</link>
+    <description>Simply for the purpose of demonstration.</description>
+
+    <items>
+      <rdf:Seq>
+        <rdf:li resource="http://example.org/item/" />
+      </rdf:Seq>
+    </items>
+   
+  </channel>
+
+  <item rdf:about="http://example.org/item/">
+    <title>The Example Item</title>
+    <link>http://example.org/item/</link>
+    <content:items><rdf:Bag>
+      <rdf:li><content:item>
+        <content:format rdf:resource="http://www.w3.org/1999/xhtml" />
+        <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed" />
+        <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+          <em>This is <strong>very</strong></em> <strong>cool</strong>.
+        </rdf:value>
+      </content:item></rdf:li><rdf:li><content:item>
+        <content:format rdf:resource="http://www.w3.org/TR/html4/" />
+        <rdf:value><![CDATA[<em>This is<strong>very</em> cool</strong>.]]></rdf:value>
+      </content:item></rdf:li><rdf:li><content:item rdf:about="http://example.org/item/content-here.txt">
+        <content:format rdf:resource="http://www.isi.edu/in-notes/iana/assignments/media-types/text/plain" />
+        <rdf:value>This is >very cool<.</rdf:value>
+      </content:item></rdf:li><rdf:li><content:item rdf:about="http://example.org/item/content.svg">
+        <content:format rdf:resource="http://www.w3.org/2000/svg" />
+      </content:item></rdf:li>
+    </rdf:Bag></content:items>
+
+  </item>
+
+</rdf:RDF>iframe>https://admiris99.blogspot.com{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l
+[https://drive.google.com/file/d/1N166xfs8dNPD8qjZMNyzEIaOteuO4kP7/view?ts=675119b4{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l…
+
+</iL>Announcement: "{ "title": "Recording 11/25/2024 at…"
+Matthew Shannon Amos
+Created 4:57 AM4:57 AM (Edited 5:04 AM)
+{ "title": "Recording 11/25/2024 at 1:31:41 PM",
+"selectorAttribute": ">https://youtu.be/K-1gYb5sNmg&quot;,
+"steps": [...]
+}
+
+</iL>
+
+
+         
+                                                      </iL>
+
+<iframe>https://admiris99.blogspot.com{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l
+[https://drive.google.com/file/d/1N166xfs8dNPD8qjZMNyzEIaOteuO4kP7/view?ts=675119b4{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l…
+
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/I3LkBuJMGdC7OY" width="510" height="420"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/to-night-made-iframes-and-1-and-number-11/284547486" title="to-night-made-iframes-and-1-and-number-11" target="_blank">to-night-made-iframes-and-1-and-number-11</a></strong>from <strong><a href="https://www.slideshare.net/matthewshannonamos01" target="_blank">matthew shannon amos </a></strong></div>
 Sergey And Larry Hiding Over Madonna She Never Came Back Oh Tom Im Hells Angel Sice I Was 16
