@@ -553,4 +553,5 @@ Created 4:57 AM4:57 AM (Edited 5:04 AM)
 [https://drive.google.com/file/d/1N166xfs8dNPD8qjZMNyzEIaOteuO4kP7/view?ts=675119b4{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l…
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/I3LkBuJMGdC7OY" width="510" height="420"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/to-night-made-iframes-and-1-and-number-11/284547486" title="to-night-made-iframes-and-1-and-number-11" target="_blank">to-night-made-iframes-and-1-and-number-11</a></strong>from <strong><a href="https://www.slideshare.net/matthewshannonamos01" target="_blank">matthew shannon amos </a></strong></div>
-Sergey And Larry Hiding Over Madonna She Never Came Back Oh Tom Im Hells Angel Sice I Was 16
+Sergey And Larry Hiding Over Madonna She Never Came Back on Time Amd 
+                     Im Hells Angel Since I Was 16
